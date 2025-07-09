@@ -1,6 +1,6 @@
 # Hand-Volume-gesture
 
-ontrol your system volume with hand gestures using MediaPipe, OpenCV, and pycaw!
+Control your system volume with hand gestures using MediaPipe, OpenCV, and pycaw!
 
 📁 Folder Structure
 bash
