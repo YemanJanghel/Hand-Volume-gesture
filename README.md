@@ -11,6 +11,7 @@ HandVolumeControl/
 ├── handvolume.py            # Main script to control volume with hand gestures
 ├── requirements.txt         # All dependencies
 └── README.md                # Project guide
+
 📌 Features
 Detects hands using MediaPipe
 
@@ -30,6 +31,7 @@ comtypes	auto-installed with pycaw
 numpy	numpy
 
 🔧 Installation
+
 1️⃣ Install Python 3.10
 Download Python 3.10 from official site
 
@@ -39,6 +41,7 @@ Copy
 Edit
 python -m venv venv
 venv\Scripts\activate  # Windows
+
 3️⃣ Install Required Libraries
 bash
 Copy
